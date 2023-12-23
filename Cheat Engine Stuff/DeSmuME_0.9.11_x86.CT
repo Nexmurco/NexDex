@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>DeSmuME_0.9.11_x86.exe+3166FB4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Move Id"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>DeSmuME_0.9.11_x86.exe+3167204</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Move Id"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>DeSmuME_0.9.11_x86.exe+3167208</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"No description"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0047D812</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry>
+      <Description>Code :mov [eax+DeSmuME_0.9.11_x86.exe+2EA0EB8],ecx</Description>
+      <AddressString>DeSmuME_0.9.11_x86.exe+7D812</AddressString>
+      <Before>
+        <Byte>C1</Byte>
+        <Byte>8B</Byte>
+        <Byte>4C</Byte>
+        <Byte>24</Byte>
+        <Byte>14</Byte>
+      </Before>
+      <Actual>
+        <Byte>89</Byte>
+        <Byte>88</Byte>
+        <Byte>B8</Byte>
+        <Byte>0E</Byte>
+        <Byte>2A</Byte>
+        <Byte>03</Byte>
+      </Actual>
+      <After>
+        <Byte>80</Byte>
+        <Byte>3D</Byte>
+        <Byte>94</Byte>
+        <Byte>58</Byte>
+        <Byte>99</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+</CheatTable>

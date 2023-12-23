@@ -1,0 +1,29 @@
+DirectX Input: 
+   - gamecontrol successfully inited: Controller (Xbox One For Windows)
+Microphone successfully inited.
+DeSmuME 0.9.11 x86
+Attempting change to 3d core to: SoftRasterizer
+SoftRast Initialized with cores=6
+Emulation paused
+
+ROM game code: APHE
+ROM serial: NTR-APHE-USA
+ROM chipID: 00001FC2
+ROM internal name: POKE DUNGEON
+ROM developer: Nintendo
+Found in game database by Serial:
+	* ROM serial:		APHE
+	* ROM save type:	FLASH 2Mbit
+	* ROM crc:		B6C4143E
+
+Slot1 auto-selected device type: Retail MC+ROM
+Slot2 auto-selected device type: None (0xFF)
+BackupDevice: size = 2 Mbit
+CPU mode: JIT
+JIT: max block size 100 instruction(s)
+Already decrypted.
+Loading D:\DS Games\Pokemon!\DS\Roms\BlueRescueTeam.nds was successful
+Emulation unpaused
+GL display context pixel format: 10
+Emulation paused
+returning from main

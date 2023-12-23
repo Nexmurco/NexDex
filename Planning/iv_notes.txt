@@ -1,0 +1,41 @@
+take highest iv modulo 5
+
+in case of tie, take personality value modulo 6 to give a starting place to find which stat to use first
+    (0)hp -> (1)attack -> defense -> speed -> spatk -> (5)spdef -> (0)hp
+    if there was a tie between defense and speed for example we could check for personality value, and if it gave 0 then we would choose defense first
+
+loves to eat
+often dozes off
+ofter scatters things
+scatters things often
+likes to relax
+
+proud of its power
+likes to thrash about
+a little quick tempered
+likes to fight
+quick tempered
+
+sturdy body
+capable of taking hits
+highly persistent
+good endurance
+good perseverence
+
+highly curious
+mischievous
+thoroughly cunning
+often lost in thought
+very finicky
+
+strong willed
+somewhat vain
+strongly defiant
+hates to lose
+somewhat stubborn
+
+likes to run
+alert to sounds
+impetuous and silly
+somewhat of a clown
+quick to flee

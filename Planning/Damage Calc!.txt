@@ -1,0 +1,29 @@
+Damage Calc!
+
+Forward
+[ ]  00: Get Level
+[ ]  01: * 2
+[+]  02: ÷ 5
+[ ]  03: + 2
+[+]  04: * BasePower
+
+forward value
+
+[+]  05: * Attack
+
+[ ]  06: ÷ 50
+[+]  07: ÷ Defense
+[+]  08: * Mod1
+[ ]  00: + 2
+[ ]  10: * Crit
+[+]  11: * Mod2
+[ ]  12: * Rand (85 - 100)
+[+]  13: ÷ 100
+[+]  14: * STAB
+[ ]  15: * T1
+[ ]  16: * T2
+[+]  17: * Mod3
+
+
+Reverse:
+

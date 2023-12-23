@@ -1,0 +1,28 @@
+Menu Navigation
+
+Main Menu
+	Pokedex Menu
+		Pokemon Display
+			Details Display
+	Battle Scanner Display
+
+
+Menu Options Listing
+Directory Controls (b takes you out)
+
+Add Poke-Kratos as easter egg
+
+
+
+battle calculator
+
+
+
+Pokedex abilities:
+Track where pokemon are encountered
+Grab detail info on pokemon when captured:
+	- move pool 
+	- stats 
+	- type
+	- abilities
+	-                    

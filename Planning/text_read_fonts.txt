@@ -1,0 +1,76 @@
+Track each pokemon we catch
+	reading stats from summary
+		trainer memo
+			Nature
+			Location
+			Level
+			Personality
+			Dex no
+			Type
+			ID No
+			ExpPoints
+		skills
+			Name
+			Gender
+			Level
+			Held Item
+			
+			HP
+			Attack
+			Defense
+			Special Attack
+			Special Defense
+			Speed
+			Ability
+			Description
+			Moves
+
+
+Battle Menu
+	Pokemon Name, Level, HP
+
+signalattack by reading:
+	" _ used attack"
+
+	track the hp lost by the enemy
+	not very effective
+
+track xp and pokemon we defeated
+
+
+
+overworld
+
+track what location we're in (top left of top screen)
+
+track battle starting- (wild battle, located in text box) - a wild (pokemon) appeared!
+
+You are challenged by (trainer)
+(track how many pokemon the trainer has) - top right corner of bottom screen, used with pokeball symbols
+
+the foe's hoppip fainted (trigger for one defeated pokemon - text box)
+
+Player defeated (trainer) (trigger for winning the battle - text box)
+
+going back to overworld - (run away from wild battle, in text box)Got away safely! (won a wild battle, in text box) The wild hoppip fainted!
+
+out of usable pokemon - (signals loss of battle)
+
+
+Track a gamestate variable: Overworld, Battle
+
+what state are we already in?
+
+did we hit a trigger to switch states?
+
+
+
+
+
+
+
+
+
+
+
+		

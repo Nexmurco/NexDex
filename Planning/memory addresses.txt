@@ -1,0 +1,46 @@
+values
+
+combat data
+
+022cc3co ->
+
+22cc43c & 022cc4a4 current hp
+022c6080 & 022cc440 max hp
+
+022c605c 022cc49c
+022d5123 move 1 current pp
+
+
+ stat p gl 
+  atk 25 16
+  def 21 17
+spatk 34 20
+spdef 18 18
+  spd 25 9
+   hp 39 28
+
+spatk 
+021e3fd2
+022c6038
+
+speed
+022c54e0 022c6036
+
+enemy evasion
+0230790d
+
+
+enemy level
+022c6124
+enemy current hp
+022c6130
+022cc67c
+
+enemy attack 
+022c60f2
++2 for def, spd, spatk, spdef
+
+enemy pokemon number
+022c60f0
+
+
